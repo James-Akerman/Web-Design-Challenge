@@ -1,0 +1,109 @@
+/* Navigation Bar */
+  #nav_id{
+   background-color:white;
+   padding: 0;
+  } 
+  #brand-latitude{
+    font-family: "Georgia";
+    font-weight: bold;
+    background-color: rgb(0, 179, 134);
+    padding: 0.5rem;
+    margin-left:1rem;
+  }
+  #navbarSupportedContent{ 
+    background-color:white; 
+  }
+  .nav-item{
+    font-weight:600;
+  }
+  
+
+ /* Landing Page */
+  #container_1{
+    padding: 2rem;
+  }
+  
+  #summary{
+    background-color: white;
+    padding: 2rem;
+  }
+
+  #summary_image{ 
+    height: 200px;
+    width: 200px;
+  }
+
+/* Individual Pages */
+#windspeed_image_main, #humidity_image_main, #maxtemp_image_main, #cloudiness_image_main{
+  height: 400px;
+  width: 600px; 
+}
+#active{
+  border: 3px solid rgb(0, 179, 134);
+}
+
+
+/* All pages */
+body{ 
+  background-color: rgb(232,232,232); 
+}
+a:hover { 
+  background-color: rgb(232,232,232);
+  text-decoration: none; 
+}
+
+#sidebar{
+  background-color: white;
+  padding: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.sidebar_image{
+  height: 140px;
+  width: 140px; 
+}
+#header1, #header2{
+  font-family: "Georgia";
+  font-size: 24px;
+  color: rgb(0, 179, 134);
+}
+
+#header3{
+  font-family: "Georgia";
+  font-size: 16px;
+  color: rgb(0, 179, 134);
+  text-align: center;
+}
+
+.justify-content-center{
+  padding: 2rem;
+}
+
+@media (max-width: 992px) {
+  #nav_id{ 
+    background-color: rgb(0, 179, 134); 
+  }
+  #sidebar{
+    margin-left: 0;
+  }
+}
+
+/* Comparison Page */
+#comparison{
+  background-color: white;
+  padding: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+.comparison_image{ 
+  height: 300px;
+  width: 400px;
+}
+
+/* Data page */
+#table_1{
+  background-color: white;
+  padding: 3rem;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
