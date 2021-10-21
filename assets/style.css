@@ -16,30 +16,38 @@
   .nav-item{
     font-weight:600;
   }
+  .dropdown-menu a:hover{
+    background-color: lightgreen;
+  }
+
+  .dropdown-menu a:active{
+    color: darkblue;
+  }
   
 
  /* Landing Page */
   #container_1{
     padding: 2rem;
   }
-  
   #summary{
     background-color: white;
-    padding: 2rem;
+    padding: 1rem;
   }
-
   #summary_image{ 
-    height: 200px;
-    width: 200px;
+    /* height: 20rem;
+    width: 20rem; */
+    height: 60%;
+    width: 100%; 
+    padding: 1%;
   }
 
 /* Individual Pages */
-#windspeed_image_main, #humidity_image_main, #maxtemp_image_main, #cloudiness_image_main{
-  height: 400px;
-  width: 600px; 
+#image_main{
+  height: 60%;
+  width: 100%; 
 }
 #active{
-  border: 3px solid rgb(0, 179, 134);
+  border: 0.2rem solid rgb(0, 179, 134);
 }
 
 
@@ -54,23 +62,23 @@ a:hover {
 
 #sidebar{
   background-color: white;
-  padding: 2rem;
-  margin-left: 2rem;
-  margin-bottom: 2rem;
+  padding: 2%;
+  margin-left: 2%;
+  margin-bottom: 2%;
 }
 .sidebar_image{
-  height: 140px;
-  width: 140px; 
+  height: 9rem;
+  width: 9rem;
 }
 #header1, #header2{
   font-family: "Georgia";
-  font-size: 24px;
+  font-size: 1.5rem;
   color: rgb(0, 179, 134);
 }
 
 #header3{
   font-family: "Georgia";
-  font-size: 16px;
+  font-size: 1rem;
   color: rgb(0, 179, 134);
   text-align: center;
 }
@@ -79,7 +87,7 @@ a:hover {
   padding: 2rem;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 960px) {
   #nav_id{ 
     background-color: rgb(0, 179, 134); 
   }
@@ -91,19 +99,22 @@ a:hover {
 /* Comparison Page */
 #comparison{
   background-color: white;
-  padding: 2rem;
+  padding: 2%;
   margin-left: 2rem;
   margin-bottom: 2rem;
 }
 .comparison_image{ 
-  height: 300px;
-  width: 400px;
+  height: 18.75rem;
+  width: 25rem;
 }
 
 /* Data page */
-#table_1{
+#table_background{
   background-color: white;
   padding: 3rem;
   margin-left: 2rem;
   margin-bottom: 2rem;
+}
+#world_cities_table{
+  font-size: 0.75rem;
 }
