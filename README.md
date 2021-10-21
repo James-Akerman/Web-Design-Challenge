@@ -43,7 +43,7 @@ The structure of this repository is as follows:
 #### latitude_vs_humidity.png
 - the latitude vs humidity visualisation.
 #### latitude_vs_max-temp.PNG 
-- the latitude vs cmax temperature visualisation.
+- the latitude vs max temperature visualisation.
 #### latitude_vs_windspeed.png
 - the latitude vs wind speed visualisation.
 
