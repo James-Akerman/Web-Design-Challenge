@@ -108,6 +108,10 @@ a:hover {
   width: 25rem;
 }
 
+#comparison_navbar_active{
+  background-color: lightgreen;
+}
+
 /* Data page */
 #table_background{
   background-color: white;
@@ -117,4 +121,8 @@ a:hover {
 }
 #world_cities_table{
   font-size: 0.75rem;
+}
+
+#data_navbar_active{
+  background-color: lightgreen;
 }
