@@ -32,7 +32,7 @@ The structure of this directory is as follows:
 ### latitude_vs_cloudiness.png
 - the latitude vs cloudiness visualisation.
 ### latitude_vs_humidity.png
-- - the latitude vs humidity visualisation.
+- the latitude vs humidity visualisation.
 ### latitude_vs_max-temp.PNG 
 - the latitude vs cmax temperature visualisation.
 ### latitude_vs_windspeed.png
