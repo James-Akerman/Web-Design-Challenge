@@ -3,8 +3,12 @@
 ### Published Website
 - to see the published website please go to https://james-akerman.github.io/Web-Design-Challenge/
 
+
+
 ### Repository Structure
 The structure of this repository is as follows:
+
+
 
 ### Web-Design-Challenge
 #### README.md
@@ -25,14 +29,17 @@ The structure of this repository is as follows:
 - a table of the data used for this project.
 
 
+
 ### Web-Design-Challenge/assets
 #### style.css
 - a custom CSS file used for all pages in this project.
 
 
+
 ### Web-Design-Challenge/Resources
 #### world_cities.csv
 - a csv file of 671 cities that I selected for this project using random latitude and longitude coordinates on Friday the 17th of September 2021 for my python API challenge. Click [here](https://github.com/James-Akerman/python-api-challenge) for the original file source.
+
 
 
 ### Web-Design-Challenge/visualisations
