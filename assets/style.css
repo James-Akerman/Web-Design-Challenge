@@ -8,7 +8,7 @@
     font-weight: bold;
     background-color: rgb(0, 179, 134);
     padding: 0.5rem;
-    margin-left:1rem;
+    margin-left: 1rem;
   }
   #navbarSupportedContent{ 
     background-color:white; 
@@ -19,7 +19,6 @@
   .dropdown-menu a:hover{
     background-color: lightgreen;
   }
-
   .dropdown-menu a:active{
     color: darkblue;
   }
@@ -32,14 +31,14 @@
   #summary{
     background-color: white;
     padding: 1rem;
+    overflow: auto;
   }
   #summary_image{ 
-    /* height: 20rem;
-    width: 20rem; */
     height: 60%;
     width: 100%; 
     padding: 1%;
   }
+
 
 /* Individual Pages */
 #image_main{
@@ -53,13 +52,12 @@
 
 /* All pages */
 body{ 
-  background-color: rgb(232,232,232); 
+  background-color: rgb(232,232,232);
 }
 a:hover { 
   background-color: rgb(232,232,232);
   text-decoration: none; 
 }
-
 #sidebar{
   background-color: white;
   padding: 2%;
@@ -75,24 +73,22 @@ a:hover {
   font-size: 1.5rem;
   color: rgb(0, 179, 134);
 }
-
 #header3{
   font-family: "Georgia";
   font-size: 1rem;
   color: rgb(0, 179, 134);
   text-align: center;
 }
-
 .justify-content-center{
   padding: 2rem;
 }
-
 @media (max-width: 991px) {
   #nav_id{ 
     background-color: rgb(0, 179, 134); 
   }
   #sidebar{
     margin-left: 0;
+    margin-bottom: 0;
   }
 }
 
@@ -121,8 +117,8 @@ a:hover {
 }
 #world_cities_table{
   font-size: 0.75rem;
+  overflow: auto;
 }
-
 #data_navbar_active{
   background-color: lightgreen;
 }
