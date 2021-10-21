@@ -34,7 +34,7 @@ The structure of this repository is as follows:
 
 ## Web-Design-Challenge/Resources
 #### world_cities.csv
-- a csv file of 671 cities that I selected for this project using random latitude and longitude coordinates on Friday the 17th of September 2021 for my python API challenge. Click [here](https://github.com/James-Akerman/python-api-challenge) for the original file source.
+- a csv file of 672 cities that I selected for this project using random latitude and longitude coordinates on Friday the 17th of September 2021 for my python API challenge. Click [here](https://github.com/James-Akerman/python-api-challenge) for the original file source.
 
 
 ## Web-Design-Challenge/visualisations
