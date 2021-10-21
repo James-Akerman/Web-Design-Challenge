@@ -1,6 +1,10 @@
 # Web-Design-Challenge
 
-The structure of this directory is as follows:
+## Published Website
+- to see the published website please go to https://james-akerman.github.io/Web-Design-Challenge/
+
+## Repository
+The structure of this repository is as follows:
 
 ## Web-Design-Challenge
 ### README.md
