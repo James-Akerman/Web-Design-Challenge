@@ -10,26 +10,26 @@ The structure of this repository is as follows:
 
 ### Web-Design-Challenge
 * #### README.md
- * the README file
+  * the README file
 * #### index.html
- * the homepage/landing page.
+  * the homepage/landing page.
 * #### cloudiness.html
- * the latitude vs cloudiness visualisation HTML file.
+  * the latitude vs cloudiness visualisation HTML file.
 * #### humidity.html
- * the latitude vs humidity visualisation HTML file.
+  * the latitude vs humidity visualisation HTML file.
 * #### maxtemp.html
- * the latitude vs max temperature visualisation HTML file.
+  * the latitude vs max temperature visualisation HTML file.
 * #### windspeed.html
- * the latitude vs wind speed visualisation HTML file.
+  * the latitude vs wind speed visualisation HTML file.
 * #### comparison.html
- * the html file comparing all four visualisation pages. 
+  * the html file comparing all four visualisation pages. 
 * #### data.html
- * a table of the data used for this project.
+  * a table of the data used for this project.
 
 
 ### Web-Design-Challenge/assets
 * #### style.css
- * a custom CSS file used for all pages in this project.
+  * a custom CSS file used for all pages in this project.
 
 
 ### Web-Design-Challenge/Resources
@@ -39,11 +39,11 @@ The structure of this repository is as follows:
 
 ### Web-Design-Challenge/visualisations
 * #### latitude_vs_cloudiness.png
- * the latitude vs cloudiness visualisation.
+  * the latitude vs cloudiness visualisation.
 * #### latitude_vs_humidity.png
- * the latitude vs humidity visualisation.
+  * the latitude vs humidity visualisation.
 * #### latitude_vs_max-temp.PNG 
- * the latitude vs max temperature visualisation.
+  * the latitude vs max temperature visualisation.
 * #### latitude_vs_windspeed.png
- * the latitude vs wind speed visualisation.
+  * the latitude vs wind speed visualisation.
 
