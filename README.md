@@ -40,7 +40,7 @@ The website contains the following pages
 
 <br>
 
-## Tools/Packages Used
+## Tools/Packages used
 - HTML
 - CSS
 - Javascript
