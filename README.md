@@ -4,7 +4,7 @@ This is a mobile friendly website which displays data analysis on weather patter
 The website contains the following pages
 
 #### the homepage/landing page (index.html)
-![index](images/index-page.PNG=100x200)
+![index](images/index-page.PNG =100x200)
 
 #### the latitude vs cloudiness visualisation page (cloudiness.html)
 ![cloudiness](images/cloudiness-page.PNG)
