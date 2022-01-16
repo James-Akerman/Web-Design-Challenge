@@ -16,23 +16,35 @@ The website contains the following pages
 #### the latitude vs humidity visualisation page (humidity.html)
 ![humidity](images/humidity-page.PNG)
 
+<br>
+
 #### the latitude vs max temperature visualisation (maxtemp.html)
 ![maxtemp](images/maxtemp-page.PNG)
+
+<br>
 
 #### the latitude vs wind speed visualisation page (windspeed.html)
 ![windspeed](images/windspeed-page.PNG)
 
+<br>
+
 #### the html file comparing all four visualisation pages (comparison.html)
 ![comparison](images/comparison-page.PNG)
 
+<br>
+
 #### a table of the data used for this project (data.html)
 ![data](images/data-page.PNG)
+
+<br>
 
 ## Tools/Packages Used
 - HTML
 - CSS
 - Javascript
   - Bootstrap
+
+<br>
 
 ## How to use
 to see the published website please go to https://james-akerman.github.io/weather-analysis-webpage/
