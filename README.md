@@ -1,7 +1,7 @@
 # Weather Analysis Webpage
 
 ## Published Website
-* to see the published website please go to https://james-akerman.github.io/Web-Design-Challenge/
+* to see the published website please go to https://james-akerman.github.io/weather-analysis-webpage/
 
 
 ## Repository Structure
