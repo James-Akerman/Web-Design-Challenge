@@ -1,7 +1,7 @@
 # Weather Analysis Webpage
 
 ## Overview of the Project
-This is a mobile friendly website which displays data analysis on weather patterns. The purpose of the analysis is see if weather patterns in cities change as they move further away from the equator. It uses a csv file containing a dataset of 672 randomly chosen cities obtained from using the citypy python library on Friday the 17th of September 2021. The link the repository which created this dataset can be found [here](https://github.com/James-Akerman/weather-analysis).
+This is a mobile friendly website which displays data analysis on weather patterns. The purpose of the analysis is see if weather patterns in cities change as they move further away from the equator. It uses a csv file containing a dataset of 672 randomly chosen cities obtained from using the Citipy python library on Friday the 17th of September 2021. The link the repository which created this dataset can be found [here](https://github.com/James-Akerman/weather-analysis).
 
 The website contains the following pages
 
